@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/eyalportfolio/static/css/main.192fd067.css",
+    "main.js": "/eyalportfolio/static/js/main.1add3fe0.js",
+    "static/js/787.26ce862c.chunk.js": "/eyalportfolio/static/js/787.26ce862c.chunk.js",
+    "static/media/gpt3.png": "/eyalportfolio/static/media/gpt3.fd4c90bf19aaa61c51d5.png",
+    "static/media/natours.png": "/eyalportfolio/static/media/natours.3e698b4ef94ade8069c4.png",
+    "static/media/bouncingball.png": "/eyalportfolio/static/media/bouncingball.07f64657cf748d25e707.png",
+    "index.html": "/eyalportfolio/index.html",
+    "main.192fd067.css.map": "/eyalportfolio/static/css/main.192fd067.css.map",
+    "main.1add3fe0.js.map": "/eyalportfolio/static/js/main.1add3fe0.js.map",
+    "787.26ce862c.chunk.js.map": "/eyalportfolio/static/js/787.26ce862c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.192fd067.css",
+    "static/js/main.1add3fe0.js"
+  ]
+}
